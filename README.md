@@ -1,2 +1,2 @@
-# go-Opencv3
-Desenvolvimento de Opencv3 com go
+# go-opencv3
+Development of opencv3 with go.
